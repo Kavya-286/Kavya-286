@@ -4,9 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me :Instagram,Gmail
 - 😄 Pronouns:she/her
-- ⚡ Fun fact:Honey never spoils. Archaeologists have found pots of honey in ancient Egyptian tombs that are
--             over 3,000 years old and still perfectly edible! Honey’s low water content and acidic pH make it a poor environment for bacteria and microorganisms,
--              which helps it stay preserved for an incredibly long time.
+- ⚡ Fun fact:A group of flamingos is called a "flamboyance." Their vibrant colors and striking appearance make this term quite fitting!
 
 <!---
 Kavya-286/Kavya-286 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
